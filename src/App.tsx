@@ -27,7 +27,7 @@ export default () => {
         </div>
         <div>
           <p>
-            <RouterLink to="/page">page</RouterLink>
+            <RouterLink to="/VueFile">go to VueFile page</RouterLink>
           </p>
         </div>
       </div>
